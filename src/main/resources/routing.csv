@@ -1,0 +1,3 @@
+source,messageType,messageTypeVersion,recipient,destination
+,*,*,2,mock-external
+,*,*,*,mock-internal
